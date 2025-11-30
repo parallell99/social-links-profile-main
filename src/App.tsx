@@ -15,11 +15,11 @@ function App() {
           <div className="title font-normal text-sm text-[#c5f82aff] pt-1 pb-4">
           London, United Kingdom</div>
           <div className="message text-[#ffff] text-sm mb-6 mt-3">"Front-end developer and avid reader."</div>
-          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-4 text-sm">GitHub</div>
-          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-4 text-sm">Frontend Mentor</div>
-          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-4 text-sm">LinkedIn</div>
-          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-4 text-sm">Twitter</div>
-          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-10 text-sm">Instagram</div>
+          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-4 text-sm hover:bg-[#c5f82aff] hover:text-black cursor-pointer">GitHub</div>
+          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-4 text-sm hover:bg-[#c5f82aff] hover:text-black cursor-pointer">Frontend Mentor</div>
+          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-4 text-sm hover:bg-[#c5f82aff] hover:text-black cursor-pointer">LinkedIn</div>
+          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-4 text-sm hover:bg-[#c5f82aff] hover:text-black cursor-pointer">Twitter</div>
+          <div className="content text-[#ffff] font-bold bg-[#333333ff] w-70 h-10 text-center content-center rounded-lg mb-10 text-sm hover:bg-[#c5f82aff] hover:text-black cursor-pointer">Instagram</div>
         </div>
       </div>
     </>
